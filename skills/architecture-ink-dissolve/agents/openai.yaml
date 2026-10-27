@@ -1,0 +1,5 @@
+interface:
+  display_name: "Arquitectura · Huella de tinta"
+  short_description: "Mitad fotografía y mitad tinta, con comparación del original"
+  default_prompt: "Usa $architecture-ink-dissolve para transformar esta foto en un cartel de mitad fotografía y mitad tinta, con texto en español y comparación original arriba, resultado abajo."
+
