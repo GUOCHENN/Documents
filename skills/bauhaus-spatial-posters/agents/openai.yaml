@@ -1,0 +1,4 @@
+interface:
+  display_name: "包豪斯空间构成"
+  short_description: "从网络参考和照片提炼几何、色彩与排版规则，生成海报并提供对照"
+  default_prompt: "使用 $bauhaus-spatial-posters 为我的主题寻找合适的网络参考，制作几种海报，并展示参考图与生成图的对比。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "模拟绘画过程视频"
+  short_description: "从静态图制作描线、主体上色与背景完成的视频，保留比例并验证编码参数"
+  default_prompt: "使用 $paint-process-video 将这张图片制作成模拟绘画过程，输出长边3840、60fps的H.264 MP4，并附原图与关键帧对比。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "照片微缩场景"
+  short_description: "把真实照片转为完整底座上的微缩摆件，保留主体关系并制作原图成品对比"
+  default_prompt: "使用 $photo-miniature-diorama 把这张照片制作成微缩场景，附上原图在上、成品在下的对比样张。"
